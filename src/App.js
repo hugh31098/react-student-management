@@ -13,7 +13,7 @@ function App() {
       <div>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <a href="/students" className="navbar-brand">
-            Student Management APP - DevOps Assignment - 08/07/2025
+            Student Management APP - DevOps Assignment (v2 - CICD) - 08/07/2025
           </a>
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
